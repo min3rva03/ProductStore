@@ -183,10 +183,11 @@ xcuserdata
 /*.gcno
 
 ### Xcode Patch ###
-*.xcodeproj/*
-#!*.xcodeproj/project.pbxproj
-#!*.xcodeproj/xcshareddata/
-#!*.xcworkspace/contents.xcworkspacedata
+#*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/project.xcworkspace/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
 #**/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/xcode,macos,carthage,swiftpackagemanager,cocoapods,swift,objective-c

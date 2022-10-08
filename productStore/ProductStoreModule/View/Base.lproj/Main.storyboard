@@ -29,10 +29,9 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="67J-Uz-c8W" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="1bg-L9-rgr"/>
-                            <constraint firstItem="67J-Uz-c8W" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="Dmq-GZ-fys"/>
                             <constraint firstItem="67J-Uz-c8W" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="IYb-xB-SGN"/>
-                            <constraint firstItem="67J-Uz-c8W" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="iGV-rd-8J8"/>
                             <constraint firstItem="67J-Uz-c8W" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="v5O-aB-bKn"/>
+                            <constraint firstItem="67J-Uz-c8W" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="v8x-9f-HtB"/>
                             <constraint firstItem="67J-Uz-c8W" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="xp7-Eh-Xwh"/>
                         </constraints>
                     </view>
